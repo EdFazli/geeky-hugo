@@ -1,6 +1,6 @@
 about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
 address = "Petaling Jaya, Selangor"
-author = "Themefisher"
+author = "Syed Ahmad Fazli"
 contact_form_action = "#"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 custom_script = ""
@@ -9,7 +9,7 @@ email = "edfazli92@gmail.com"
 favicon = "images/edFazli2.png"
 featured_post_title = "Featured Post"
 footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
-image = "images/logo.png"
+image = "images/edFazli2.png"
 logo = "images/edFazli2.png"
 logo_text = "edFazli logo"
 logo_width = "150x"
@@ -44,14 +44,6 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [widgets]
 sidebar = ["about", "categories", "recent-post", "newsletter"]
-[[social]]
-icon = "fab fa-facebook"
-link = "#"
-title = "facebook"
-[[social]]
-icon = "fab fa-twitter"
-link = "#"
-title = "twitter"
 [[social]]
 icon = "fab fa-instagram"
 link = "#"
